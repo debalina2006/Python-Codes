@@ -1,4 +1,5 @@
 #WAP to genarate an Abecedarian Seires
+
 series=[]
 n='a'
 while n<='z':
